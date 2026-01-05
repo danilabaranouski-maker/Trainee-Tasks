@@ -1,0 +1,13 @@
+.env
+
+__pycache__/
+*.py[cod]
+
+logs/
+
+dags/data/*.csv
+dags/data/archive/*.csv
+dags/data/archive/*.gz
+
+.vscode/
+.idea/
